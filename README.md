@@ -3,7 +3,7 @@
 #### Hello, I'm Honestly-nuts
 I'm a Python, C, C++ programmer. I like programming. I don't have anything else to say really. Actually now that I think of it. I really fit 
 into the stereotypical programmer personality. I am very lazy, I can't really talk to people even though I want to, I want to commit homicide.
-Okay I'm joking about the homicide thing, **unless?!?** 😨. I also  
+Okay I'm joking about the homicide thing, **unless?!?** 😨.
 
 - 🔭 I’m currently working on [Scuffed Utils, a python re implementation of GNU Core Utils](https://github.com/honestly-nuts/Scuffed-Utils), always be plugging.
 - 🌱 I’m currently learning Python, C, C++, Vim.
