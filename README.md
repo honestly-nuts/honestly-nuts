@@ -18,5 +18,20 @@ Okay I'm joking about the homicide thing, **unless?!?** 😨. I also
   
 - ⚡ Some *fun facts* about me:
   0. I use Vim (and NeoVim) as my text editor.
-  1. I like to draw and sketch and design, I don't think I'm good at it but I do it any way. here are some of my 
-  creations (all of them are drawn with a mouse because I'm dirt poor):
+  1. I like to draw and sketch and design, I don't think I'm good at it but I like to do it any way. Here are some of my 
+  creations (all of them are drawn with a mouse because I'm dirt poor) (beware: not all of them are serious) :
+### Main logo for my project **gets run by a bus**:
+<img src="https://github.com/honestly-nuts/honestly-nuts/blob/main/scuffed_utils_dark_logo_python_scheme.svg" width=300 height=280>
+
+##### Different colour schemes:
+
+<img src="https://github.com/honestly-nuts/honestly-nuts/blob/main/scuffed_utils_dark_logo_alien_scheme.svg" width=300 height=280>
+<img src="https://github.com/honestly-nuts/honestly-nuts/blob/main/scuffed_utils_logo_light.svg">
+
+### This one is not one of my proudest creatons:
+
+<img src="https://github.com/honestly-nuts/honestly-nuts/blob/main/scuffed_utils_alien_logo_old.svg" width=300 height=280>
+
+### This one was my first ever attempt at raster drawing with a mouse (not a serious drawing):
+
+<img src=https://github.com/honestly-nuts/honestly-nuts/blob/main/mskajfdksduif%20%20wvryb.png" width=300 height=280>
