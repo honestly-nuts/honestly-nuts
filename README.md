@@ -14,7 +14,7 @@ Okay I'm joking about the homicide thing, **unless?!?** 😨.
   1. twitter: @Honestly__nuts
   2. Reddit: u/Honestly__nuts
   3. Email: honeastlynuts@gmail.com (yes I know it is spelled incorrectly, I wrote it when I was a kid and now I'm too lazy to fix it.)
-  4. Github: Odd that you are looking for my github username when readme is on github. But here you go: honestly-nuts
+  4. Github: Odd that you are looking for my github username when this readme is on github. But here you go: honestly-nuts
   
 - ⚡ Some *fun facts* about me:
   0. I use Vim (and NeoVim) as my text editor.
