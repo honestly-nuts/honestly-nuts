@@ -26,7 +26,7 @@ Okay I'm joking about the homicide thing, **unless?!?** 😨.
 ##### Different colour schemes:
 
 <img src="https://github.com/honestly-nuts/honestly-nuts/blob/main/scuffed_utils_dark_logo_alien_scheme.svg" width=300 height=280>
-<img src="https://github.com/honestly-nuts/honestly-nuts/blob/main/scuffed_utils_logo_light.svg">
+<img src="https://github.com/honestly-nuts/honestly-nuts/blob/main/scuffed_utils_logo_light.svg" width=300 height=280>
 
 ### This one is not one of my proudest creatons:
 
@@ -34,4 +34,4 @@ Okay I'm joking about the homicide thing, **unless?!?** 😨.
 
 ### This one was my first ever attempt at raster drawing with a mouse (not a serious drawing):
 
-<img src=https://github.com/honestly-nuts/honestly-nuts/blob/main/mskajfdksduif%20%20wvryb.png" width=300 height=280>
+<img src="https://github.com/honestly-nuts/honestly-nuts/blob/main/mskajfdksduif%20%20wvryb.png" width=300 height=280>
