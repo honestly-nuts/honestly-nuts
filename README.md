@@ -6,9 +6,9 @@ into the stereotypical programmer personality. I am very lazy, I can't really ta
 Okay I'm joking about the homicide thing, **unless?!?** 😨.
 
 - 🔭 I’m currently working on [Scuffed Utils, a python re implementation of GNU Core Utils](https://github.com/honestly-nuts/Scuffed-Utils), always be plugging.
-- 🌱 I’m currently learning Python, C, C++, Vim.
-- 👯 I’m looking to collaborate on Command-line-tools and more.
-- 🤔 I’m looking for help with [Scuffed Utils](https://github.com/honestly-nuts/Scuffed-Utils) and [TPP, a Preprocessor for my project *gets hit by a bus*](https://github.com/honestly-nuts/TPP).
+- 🌱 I’m currently learning Python, C, C++, javascript, Vim.
+- 👯 I’m looking to collaborate on Command-line-tools, Gui's, Tui's, and more.
+- 🤔 I’m looking for help with [Scuffed Utils](https://github.com/honestly-nuts/Scuffed-Utils) and [TPP, a Preprocessor for my project *gets hit by a horse*](https://github.com/honestly-nuts/TPP).
 - 💬 Ask me about Anything accept Why I look Like shit.
 - 📫 How to reach me: 
   1. twitter: @Honestly__nuts
