@@ -31,7 +31,3 @@ Okay I'm joking about the homicide thing, **unless?!?** 😨.
 ### This one is not one of my proudest creatons:
 
 <img src="https://github.com/honestly-nuts/honestly-nuts/blob/main/scuffed_utils_alien_logo_old.svg" width=300 height=280>
-
-### This one was my first ever attempt at raster drawing with a mouse (not a serious drawing):
-
-<img src="https://github.com/honestly-nuts/honestly-nuts/blob/main/mskajfdksduif%20%20wvryb.png" width=300 height=280>
