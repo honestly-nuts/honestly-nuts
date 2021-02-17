@@ -11,8 +11,8 @@ Okay I'm joking about the homicide thing, **unless?!?** 😨.
 - 🤔 I’m looking for help with [Scuffed Utils](https://github.com/honestly-nuts/Scuffed-Utils) and [TPP, a Preprocessor for my project *gets hit by a horse*](https://github.com/honestly-nuts/TPP).
 - 💬 Ask me about Anything accept Why I look Like shit.
 - 📫 How to reach me: 
-  1. twitter: @Honestly__nuts
-  2. Reddit: u/Honestly__nuts
+  
+  2. twitter: im not comfy with that, but you can message me on discord or e-mail me and I will give you access to my twitter :)
   3. Discord: Honestly Nuts\#0864
   4. Email: honeastlynuts@gmail.com (yes I know it is spelled incorrectly, I wrote it when I was a kid and now I'm too lazy to fix it.)
   5. Github: Odd that you are looking for my github username when this readme is on github. But here you go: honestly-nuts
